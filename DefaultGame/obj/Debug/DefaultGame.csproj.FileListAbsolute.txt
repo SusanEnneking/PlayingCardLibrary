@@ -1,0 +1,7 @@
+c:\users\susan\documents\visual studio 2015\Projects\PlayingCardLibrary\DefaultGame\bin\Debug\DefaultGame.dll
+c:\users\susan\documents\visual studio 2015\Projects\PlayingCardLibrary\DefaultGame\bin\Debug\DefaultGame.pdb
+c:\users\susan\documents\visual studio 2015\Projects\PlayingCardLibrary\DefaultGame\bin\Debug\PlayingCardLibrary.dll
+c:\users\susan\documents\visual studio 2015\Projects\PlayingCardLibrary\DefaultGame\bin\Debug\PlayingCardLibrary.pdb
+c:\users\susan\documents\visual studio 2015\Projects\PlayingCardLibrary\DefaultGame\obj\Debug\DefaultGame.csprojResolveAssemblyReference.cache
+c:\users\susan\documents\visual studio 2015\Projects\PlayingCardLibrary\DefaultGame\obj\Debug\DefaultGame.dll
+c:\users\susan\documents\visual studio 2015\Projects\PlayingCardLibrary\DefaultGame\obj\Debug\DefaultGame.pdb
